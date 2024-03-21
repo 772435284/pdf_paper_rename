@@ -1,0 +1,3 @@
+- This repo create script that can automaticly rename pdf papers
+- current it detects title using spacy
+- welcome to submit pull request to increase the accuracy 
